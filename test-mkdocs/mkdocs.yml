@@ -1,0 +1,5 @@
+site_name: My Docs
+nav:
+  - Page1: index.md
+  - Page2: test2.md
+  - Page3: test.md
